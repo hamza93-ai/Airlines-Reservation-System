@@ -1,0 +1,28 @@
+
+  ****************************************************
+  *                                                  *
+  *             XYZ AIRLINES                         *
+  *          BOARDING PASS / E-TICKET                *
+  *                                                  *
+  ****************************************************
+  *                                                  *
+  *  PASSENGER  : Faizan Asif
+  *  CUST ID    : 102
+  *  AGE        : 22
+  *  GENDER     : Male
+  *                                                  *
+  *--------------------------------------------------*
+  *                                                  *
+  *  FLIGHT NO  : XY-606
+  *  DEST       : Canada
+  *  DURATION   : 14h 30m
+  *                                                  *
+  *--------------------------------------------------*
+  *                                                  *
+  *  TOTAL FARE : PKR 205000
+  *  STATUS     : CONFIRMED
+  *                                                  *
+  *  HAVE A SAFE AND PLEASANT JOURNEY!              *
+  *                   XYZ Airlines Team             *
+  *                                                  *
+  ****************************************************
