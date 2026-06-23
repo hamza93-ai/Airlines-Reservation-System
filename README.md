@@ -146,14 +146,8 @@ airline.exe      # Windows
 ## 👨‍💻 Author
 
 **Hamza Asif**
-BS Artificial Intelligence — Dawood University of Engineering & Technology (DUET), Karachi
-Roll No: 23-AI-93
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Asif-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamza-asif-b84523325)
 [![GitHub](https://img.shields.io/badge/GitHub-hamza93--ai-black?style=flat-square&logo=github)](https://github.com/hamza93-ai)
 
 ---
-
-## 📄 License
-
-This project is for **educational purposes** as part of BS AI coursework at DUET Karachi.
