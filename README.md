@@ -1,4 +1,4 @@
-# ✈️ XYZ Airlines Reservation System
+# ✈️ Airlines Reservation System
 
 A console-based **Airline Reservation System** built in **C++** using **Object-Oriented Programming (OOP)** concepts. The system allows users to register as customers, browse available flights departing from Karachi, Pakistan, book a flight, and generate a formatted boarding pass / e-ticket — all through a step-by-step guided menu.
 
